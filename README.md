@@ -1,2 +1,2 @@
 # Quinton-Smith-Intro
-This is my Intro to GitHub Assignment
+Please Change the .sh file to print "Hello World!"
